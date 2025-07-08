@@ -24,7 +24,7 @@
         <br/>
         <div>
             <h4>常用的工具</h4>
-            <img src="https://img.shields.io/badge/Redmi-FF6900?logo=xiaomi&logoColor=fff&style=flat" alt="Redmi Badge">&nbsp;
+<!--             <img src="https://img.shields.io/badge/Redmi-FF6900?logo=xiaomi&logoColor=fff&style=flat" alt="Redmi Badge">&nbsp; -->
             <img src="https://img.shields.io/badge/Ubuntu-FCC624?logo=ubuntu&logoColor=000&style=flat" alt="Ubuntu Badge">&nbsp;
             <img src="https://img.shields.io/badge/Windows%2011-0078D6?logo=windows&logoColor=fff&style=flat" alt="Windows Badge">&nbsp;
             <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat" alt="Visual Studio Code Badge">&nbsp;
