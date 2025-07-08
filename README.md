@@ -44,7 +44,7 @@
     <div align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Web-Zombies" />
     </div>
-    <div align="center">
+<!--     <div align="center">
          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Web-Zombies&theme=flag-india" />
-    </div>
+    </div> -->
 </div>
